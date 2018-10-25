@@ -20,7 +20,7 @@
   height: 297mm;
   width: 210mm;
   /* 余白サイズ */
-  padding-top: 25mm;
+  padding-top: 35mm;
   padding-left: 10mm;
   padding-right: 10mm;
 }
@@ -63,7 +63,7 @@ div.row5 {
 	height: 90mm;
 }
 div.row6 {
-	height: 25mm;
+	height: 35mm;
 }
 
 
